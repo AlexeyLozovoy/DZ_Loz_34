@@ -1,1 +1,1 @@
-worker: python GPT.py
+worker: python main.py
